@@ -1,5 +1,18 @@
 # LightBnB
 
+# Final Product 
+
+![Final Product](https://user-images.githubusercontent.com/95609843/174537084-369b82b2-1867-4d8c-9781-2de445986d9d.png)
+
+# Features
+
+- Able to login / logout
+- Able to create a new user
+- Able to create a new listing
+- Able to check on your created listings
+- Able to check your reservations
+- Able to search by filtering different factors to find the right BnB
+
 ## Project Structure
 
 ```
