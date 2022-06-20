@@ -2,7 +2,9 @@
 
 # Final Product 
 
-Found within LightBnB Directory -> LightBnB_WebApp
+- Found within LightBnB Directory > LightBnB_WebApp.
+- Install all required dependencies.
+- use "npm run local" to start the web app.
 
 ![Final Product](https://user-images.githubusercontent.com/95609843/174537084-369b82b2-1867-4d8c-9781-2de445986d9d.png)
 
